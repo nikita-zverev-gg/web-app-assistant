@@ -1,0 +1,16 @@
+{
+  "name": "goglobal-assistant",
+  "description": "GoGlobal development tools marketplace",
+  "plugins": [
+    {
+      "id": "goglobal-assistant",
+      "name": "goglobal-assistant",
+      "description": "GoGlobal development assistant with TDD workflow, specialized agents, skills, and comprehensive development guidelines",
+      "version": "1.0.0",
+      "source": {
+        "source": "directory",
+        "path": "."
+      }
+    }
+  ]
+}
